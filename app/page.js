@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <h1 style={{ color: white, fontSize: 72 }}>
+        <h1 style={{ color: "white", fontSize: 72 }}>
           Writing something bit for notice. this is new branch!
         </h1>
         <Image
