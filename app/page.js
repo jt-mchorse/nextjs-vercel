@@ -29,6 +29,9 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
+        <h1 style={{ color: white, fontSize: 72 }}>
+          Writing something bit for notice. this is new branch!
+        </h1>
         <Image
           className={styles.logo}
           src="/next.svg"
@@ -71,7 +74,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Deployment test for showcase of Vercel <span>-&gt;</span>
+            Template <span>-&gt;</span>
           </h2>
           <p>Explore the Next.js 13 playground.</p>
         </a>
